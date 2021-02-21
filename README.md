@@ -1,4 +1,4 @@
-# mkblob
+# mkblob-rpi
 Tool to make executables independent from libraries.
 
 Make with makeall_rpi.sh on Raspberry pi camputer. Tested on version 3. 
