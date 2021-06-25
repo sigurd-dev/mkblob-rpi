@@ -16,7 +16,7 @@ it needs to run and other files your program uses.
 
 Project was originally started to make opencv programs able to run without recompiling/rebuilding/installing.
 
-Example: mkblob /usr/bin/ls -o ls.blob -static
+Example: mkblob /bin/ls -o ls.blob -static
 
 mkblob can be used on not only binaries, but scripts as well, like shell, perl and python and so on.
 If you need or want to pass arguments to your (binary) program you should create a script which does this and then run 
