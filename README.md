@@ -1,7 +1,7 @@
 # mkblob-rpi
 Tool to make executables independent from libraries.
 
-Make with makeall_rpi.sh on Raspberry Pi camputer. Tested on version 3. 
+Make with makeall_rpi.sh on Raspberry Pi computer. Tested on version 3. 
 
 You might have to tweak the script to make it compile on other distributions.
 Also glibc-static is needed to compile. (dnf install glibc-static)
